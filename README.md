@@ -272,6 +272,7 @@ Websites built with Gatsby:
 - [Tiger Facility Services](https://www.tigerfacilityservices.com/)
 - [Jersey Watch](https://www.jerseywatch.com/)
 - [Bench Accounting](https://bench.co/)
+- [Migo](https://www.getmigo.com/)
 
 ## Docs
 
